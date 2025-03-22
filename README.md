@@ -7,12 +7,16 @@ Basic understanding of DeFi and Uniswap V3
 # Installation
 
 ```
-git clone 
-cd 
+git clone https://github.com/papa-multi/0g-swap-auto.git
+cd 0g-swap-auto
 ```
 
 ```
 screen -S 0gswap
+```
+
+```
+npm install
 ```
 
 # Create a .env file:
